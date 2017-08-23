@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## 科锐二阶段项目 网络版学生管理系统
 
-You can use the [editor on GitHub](https://github.com/BilibiliRiven/StudentManagementSystem/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+科锐学习十分类啊，这个东西虽然简单但是。也是我6天以来的劳动成果，用以见证我的IT路。与hacker梦。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+详细设计的说明书是我瞎写的，有用的只有里面的**设计图**。这个代码写的实在是太着急又，恰逢科锐10周年，
 
-### Markdown
+....。科锐对我来说真的是我人生的又一个转折点。这里的人都很务实，弄得是实实在在技术。向科锐所有的
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BilibiliRiven/StudentManagementSystem/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+老师看齐。
